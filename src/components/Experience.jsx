@@ -36,12 +36,7 @@ const Experience = () => {
             title: 'REACT',
             style: 'shadow-blue-600'
         },
-        {
-            id:5,
-            src: tailwind,
-            title: 'TAILWIND CSS',
-            style: 'shadow-sky-400'
-        },
+        
         {
             id:6,
             src: jquery1,
@@ -54,12 +49,7 @@ const Experience = () => {
             title: 'GITHUB',
             style: 'shadow-gray-500'
         },
-        {
-            id:8,
-            src: nextjs,
-            title: 'Next JS',
-            style: 'shadow-white'
-        },
+       
     ]
 
 
